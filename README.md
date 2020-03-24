@@ -1,4 +1,4 @@
-#My Shop with Reactjs
+# My Shop with Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
